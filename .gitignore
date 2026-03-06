@@ -16,3 +16,6 @@ wheels/
 # Environment Files
 .env
 notebooks/.env
+
+# Data Folder
+data/
