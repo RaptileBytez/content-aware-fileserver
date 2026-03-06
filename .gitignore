@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment Files
+.env
+notebooks/.env
