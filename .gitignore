@@ -19,3 +19,6 @@ notebooks/.env
 
 # Data Folder
 data/
+
+# Docker configuration
+*.yml
